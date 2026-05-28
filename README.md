@@ -4,3 +4,5 @@ Tenho 18 anos e estou aprendendo Java, com foco em Análise e Desenvolvimento de
 Eu tenho muitos interesses: programação (jogos ou sistemas), desenhos (pixel art também!), design, 
 modelagem 3D, edição de vídeo, música, e qualquer outra coisa que eu precise fazer.
 
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
