@@ -1,1 +1,3 @@
-![Snake animation](https://github.com/vitogamma/vitogamma/blob/output/github-contribution-grid-snake.svg)
+## Oi, eu sou o Vitor
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitogamma)](https://github.com/vitogamma/README.md)
