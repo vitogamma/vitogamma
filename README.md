@@ -4,7 +4,7 @@ Tenho 18 anos e estou aprendendo Java, com foco em Análise e Desenvolvimento de
 Eu tenho muitos interesses: programação (jogos ou sistemas), desenhos (pixel art também!), design, 
 modelagem 3D, edição de vídeo, música, e qualquer outra coisa que eu precise fazer.
 
-Eu gosto muito de jogos roguelike/sobrevivência, alguns são: 
-1. Don't Starve Together 
-2. Noita
-3. Risk of Rain 2
+Eu gosto muito de jogos roguelike/sobrevivência, alguns são:    
+![alt text](https://github.com/vitogamma/vitogamma/blob/main/dstogether.png "Don't Starve Together")
+![alt text](https://github.com/vitogamma/vitogamma/blob/main/noita.webp "Noita")
+
